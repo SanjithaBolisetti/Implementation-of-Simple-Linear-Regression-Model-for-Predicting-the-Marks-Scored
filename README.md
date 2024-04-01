@@ -47,6 +47,16 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 ```
 
 ## Output:
+1)HEAD:
+![image](https://github.com/SanjithaBolisetti/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393633/0ef9f954-eacd-437a-818b-fe19b7af41a1)
+
+2)GRAPH OF PLOTTED DATA:
+![image](https://github.com/SanjithaBolisetti/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393633/d40d0815-9bd7-4d15-90d0-9e86015ab7b9)
+
+3)TRAINED DATA:
+![image](https://github.com/SanjithaBolisetti/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393633/110c5729-909f-4564-9c3a-23bd0a9f9a3e)
+
+4)LINE OF REGRESSION:
 ![image](https://github.com/SanjithaBolisetti/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119393633/9256d975-ac09-4958-9029-0c91747e4daf)
 
 
